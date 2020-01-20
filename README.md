@@ -1,1 +1,1 @@
-# Capitalizing-1st-and-last-character-of-each-token-in-a-string
+# C program to capitalizing-1st-and-last-character-of-each-token-in-a-string
